@@ -1,3 +1,0 @@
-@echo Thank you for using this simple program developed by Jaden Morales!                                                                                                                                                                             Please press "y" on your keyboard TWICE to continue with the copy operation. DO NOT PRESS ANY OTHER KEY, ELSE YOU COULD MESS SOMETHING UP! If you would like to cancel, simply close this window.
-xcopy "F:\Stuff\GTA Stuff\FiveM\EUP\MODDEDdlc.rpf" "D:\SteamLibrary\steamapps\common\Grand Theft Auto V\update\x64\dlcpacks\patchday15ng\dlc.rpf"
-xcopy "F:\Stuff\GTA Stuff\FiveM\Sirens\moddedRESIDENT.rpf" "D:\SteamLibrary\steamapps\common\Grand Theft Auto V\x64\audio\sfx\RESIDENT.rpf"
