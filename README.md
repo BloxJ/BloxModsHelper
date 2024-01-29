@@ -1,4 +1,6 @@
-# FiveM-Mods-Installer
-This repository contains a place where you can install and uninstall your FiveM mods quickly and easily.
-NOTE: You MUST contact BloxJ#9262 on Discord BEFORE attempting to install!
-NOTE: Please do NOT download source code; please download the latest release or else everything will be confusing to you!
+# FiveM Mods Helper
+This repository is designed to help you install and uninstall your FiveM mods quickly and easily.
+
+Instructions are provided at the following link: [FiveM Mods Helper Tutorial](https://youtu.be/vOXPy3oavC4)
+
+NOTE: Please do NOT download source code; please download the latest release!
