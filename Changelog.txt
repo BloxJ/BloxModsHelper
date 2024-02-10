@@ -1,0 +1,3 @@
+v3.2 Changelog:
+
+In v3.2, we have made small but significant quality-of-life improvements to the program. The main new feature of this update is the auto-updater. With this new feature, you will no longer have to go to the GitHub page to download updates; all updates will now be handled by a new separate program, "FiveM Mods Updater.exe". The version number has also been added and will tell you the version you're running when the program checks for updates. Another small but significant change is that the password on ALL BloxJ software has been removed, so you will no longer have to remember or have to refer to any password ever again. We hope you enjoy this release!
