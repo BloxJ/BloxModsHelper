@@ -1,3 +1,5 @@
 v3.2.1 Changelog:
 
-We have made some quick but essential changes that will increase usability. The updater program has been updated to use the latest standards with no compiler errors and we have also made it so the updater no longer quits before you can read what the output was. It also now correctly updates all necessary files.
+This all new 4.0 version makes it easier than ever to install FiveM mods, with the installer and uninstaller programs being combined into one program.
+To get to the installer or uninstaller, navigate through a menu of options and use the keyboard to select the program you need.
+Be on the lookout for v5.0, which will include an all new GUI interface in addition to the current console version.
